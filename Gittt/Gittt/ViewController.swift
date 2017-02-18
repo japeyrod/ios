@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Gittest
+//  Gittt
 //
 //  Created by Jevon Luo on 2017/2/18.
 //  Copyright © 2017年 Jevon Luo. All rights reserved.
